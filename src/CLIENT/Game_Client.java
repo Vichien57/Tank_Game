@@ -205,7 +205,7 @@ public class Game_Client extends JFrame {
                         
                         純 Java 實現的經典坦克大戰遊戲
                         
-                        開發者: 王文钦; 陈婉逢; 曾景媛
+                        開發者: Vichien, Chen W.F, Zeng J.Y.
                         """,
                 "關於",
                 JOptionPane.INFORMATION_MESSAGE);
